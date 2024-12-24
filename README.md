@@ -2,6 +2,7 @@
 
 An analysis of a fake digital identification service advertised on the internet.
 
+![image](https://i.imgur.com/g5KFNPR.png)
 ---
 
 ## Disclaimer
@@ -14,7 +15,11 @@ This write-up is for **educational purposes only**. I do not condone the develop
 
 Upon visiting the website, I was greeted by a seemingly innocent sushi menu hosted under a domain masquerading as a sushi restaurant. At first glance, nothing indicated the presence of the advertised fake ID service.
 
+![image](https://i.imgur.com/JyjhuQJ.png)
+
 Curiosity led me to add the website to my home screen and open it from there. This time, I encountered a login screen requesting an authentication key.
+
+![image](https://i.imgur.com/xbw7LcO.png)
 
 ---
 
