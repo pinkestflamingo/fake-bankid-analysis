@@ -27,7 +27,7 @@ Curiosity led me to add the website to my home screen and open it from there. Th
 
 ### Authentication Process
 
-Unable to afford the $5 license for the key, I began analyzing the website. I traced the request to a file named `login.js`, which was heavily obfuscated. Using a private deobfuscation tool, I managed to reveal the following code:
+Unable to afford the $5 license for the key since I am a software engineer, I began analyzing the website. I traced the request to a file named `login.js`, which was heavily obfuscated. Using a private deobfuscation tool, I managed to reveal the following code:
 
 ```javascript
 document.getElementById("login-button").addEventListener("click", function () {
